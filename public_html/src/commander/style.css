@@ -1,0 +1,48 @@
+.treeitemstyle { font-family: Arial; font-weight: normal; font-style: normal; font-size: 12px; margin-top: 0px; margin-bottom: 0px; color: #000000; text-decoration: none}
+
+BODY             { font-family: Verdana,Helvetica; font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; margin-left: 0px; margin-top: 0px }
+TD               { font-family: Verdana,Helvetica; font-size: 11px; color: #000000; font-weight: normal; text-decoration: none }
+
+A                { font-family: Verdana,Helvetica; font-size: 11px; color: #000000; font-weight: normal; text-decoration: none }
+A:link           { font-family: Verdana,Helvetica; font-size: 11px; color: #000000; font-weight: normal; text-decoration: none }
+A:visited        { font-family: Verdana,Helvetica; font-size: 11px; color: #000000; font-weight: normal; text-decoration: none }
+A:hover          { font-family: Verdana,Helvetica; font-size: 11px; color: #7C7C7C; font-weight: normal; text-decoration: underline }
+
+A:link.Divers    { font-family: Verdana,Helvetica; font-size: 13px; color: #000080; font-weight: bold; text-decoration: none; font-style: italic }
+A:visited.Divers { font-family: Verdana,Helvetica; font-size: 13px; color: #000080; font-weight: bold; text-decoration: none; font-style: italic }
+A:hover.Divers   { font-family: Verdana,Helvetica; font-size: 13px; color: #FF0000; font-weight: bold; text-decoration: none; font-style: italic }
+
+B                { font-family: Verdana,Helvetica; font-size: 13px; font-weight: normal; text-decoration: none }
+B.Important      { font-family: Verdana,Helvetica; font-size: 13px; color: #FF0000;  font-weight: normal; text-decoration: none }
+B.Titre          { font-family: Verdana,Helvetica; font-size: 18px; color: darkblue; font-weight: normal; text-decoration: none; font-style: italic }
+B.SousTitre      { font-family: Verdana,Helvetica; font-size: 13px; color: #FFFFFF;  font-weight: normal; text-decoration: none }
+B.Fichier        { font-family: Verdana,Helvetica; font-size: 25px; color: darkblue; font-weight: normal; text-decoration: none }
+B.Date           { font-family: Verdana,Helvetica; font-size: 10px; color: #000000;  font-weight: normal; text-decoration: none }
+B.Info           { font-family: Verdana,Helvetica; font-size: 11px; color: darkblue; font-weight: normal; text-decoration: none }
+B.Divers         { font-family: Verdana,Helvetica; font-size: 13px; color: #000000;  font-weight: normal; text-decoration: none; font-style: italic }
+B.Option         { font-family: Verdana,Helvetica; font-size: 18px; color: darkblue;  font-weight: normal; text-decoration: none; }
+
+.btn{ 
+		font-family: Arial; 
+		font-weight: normal; 
+		font-style: normal; 
+		font-size: 12px; 
+		color: #303030; 
+		background: #D0D0D0; 
+		border-top: 1px solid #303030; 
+		border-bottom: 1px solid #303030; 
+		border-left: 1px solid #303030; 
+		border-right: 1px solid #303030;
+}
+.btntext{ 
+		font-family: Arial; 
+		font-weight: normal; 
+		font-style: normal; 
+		font-size: 12px; 
+		color: #303030; 
+		background: white; 
+		border-top: 1px solid #303030; 
+		border-bottom: 1px solid #303030; 
+		border-left: 1px solid #303030; 
+		border-right: 1px solid #303030;
+}
